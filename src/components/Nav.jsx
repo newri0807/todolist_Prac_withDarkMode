@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext } from "react";
 import styles from "./Nav.module.css";
 import { BsFillSunFill } from "react-icons/bs";
 import { MdNightlightRound } from "react-icons/md";
