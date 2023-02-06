@@ -8,9 +8,9 @@ export default function Body({ filtering }) {
 
   const [todo, setTodo] = useState([]);
 
-  console.log(todo);
   useEffect(() => {
     setTodo(savedData); //props.datas = window.sessionStorage.getItem("data")
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const addTodo = (newTodo) => {
