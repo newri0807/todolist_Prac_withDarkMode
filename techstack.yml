@@ -1,0 +1,468 @@
+repo_name: newri0807/todolist_Prac_withDarkMode
+report_id: 1fe607b99626bc7ef426e13f84adc7c6
+repo_type: Public
+timestamp: '2023-11-10T02:50:10+00:00'
+requested_by: Newl87
+provider: github
+branch: master
+detected_tools_count: 35
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/lib/Find-VisualStudio.cs"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: yarn.lock
+  detection_source: package.json
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: Eclipse
+  description: IDE for Java EE Developers
+  website_url: https://www.eclipse.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/gyp/pylib/gyp/generator/eclipse.py"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source: yarn.lock
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: React Navigation
+  description: Flexible navigation library for React Native and web. Learn once, navigate
+    anywhere.
+  website_url: https://reactnavigation.org/
+  open_source: false
+  hosted_saas: false
+  category: Mobile
+  sub_category: Cross-Platform Mobile Tools
+  image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.16.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: yarn.lock
+  detection_source: package.json
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 13.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: yarn.lock
+  detection_source: package.json
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.11.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: yarn.lock
+  detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: ava
+  description: Testing can be a drag. AVA helps you get it done
+  package_url: https://www.npmjs.com/ava
+  version: 3.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: bindings
+  description: Helper module for loading your native module's .node file
+  package_url: https://www.npmjs.com/bindings
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16564/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
+  detection_source_url: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: eslint-config-react-app
+  description: ESLint configuration used by Create React App
+  package_url: https://www.npmjs.com/eslint-config-react-app
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16088/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: yarn.lock
+  detection_source: package.json
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.2.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: yarn.lock
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: graceful-fs
+  description: A drop-in replacement for fs, making various improvements
+  package_url: https://www.npmjs.com/graceful-fs
+  version: 4.2.10
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16375/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: yarn.lock
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: is-wsl
+  description: Check if the process is running inside Windows Subsystem for Linux
+  package_url: https://www.npmjs.com/is-wsl
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17097/default_faf55ef1f2892d4dcce54ed77892756797ff34e1.png
+  detection_source_url: yarn.lock
+  detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: nan
+  description: 'Native Abstractions for Node.js: C++ header for Node 0.8 -&gt; 11
+    compatibility'
+  package_url: https://www.npmjs.com/nan
+  version: 2.14.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16178/default_0d450fcd03a0343bb89c9b7c3a8cf092daa8c3b9.png
+  detection_source_url: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: nopt
+  description: Option parsing for Node, supporting types, shorthands, etc
+  package_url: https://www.npmjs.com/nopt
+  version: 6.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16662/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: yarn.lock
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: npmlog
+  description: Logger for npm
+  package_url: https://www.npmjs.com/npmlog
+  version: 6.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16667/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: yarn.lock
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: yarn.lock
+  detection_source: package.json
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: react-icons
+  description: SVG React icons of popular icon packs using ES6 imports
+  package_url: https://www.npmjs.com/react-icons
+  version: 4.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16909/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: yarn.lock
+  detection_source: package.json
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: yarn.lock
+  detection_source: package.json
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 3.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: yarn.lock
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: standard
+  description: JavaScript Standard Style
+  package_url: https://www.npmjs.com/standard
+  version: 14.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15878/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: tap
+  description: A Test-Anything-Protocol library for JavaScript
+  package_url: https://www.npmjs.com/tap
+  version: 12.7.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  version: 6.1.13
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: yarn.lock
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: tsd
+  description: Check TypeScript type definitions
+  package_url: https://www.npmjs.com/tsd
+  version: 0.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16858/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
+  detection_source_url: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 8.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: yarn.lock
+  detection_source: package.json
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: which
+  description: Like which
+  package_url: https://www.npmjs.com/which
+  version: 1.3.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16482/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
+  detection_source_url: yarn.lock
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: xo
+  description: JavaScript linter with great defaults
+  package_url: https://www.npmjs.com/xo
+  version: 0.39.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16016/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
