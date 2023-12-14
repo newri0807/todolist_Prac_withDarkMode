@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 newri0807/todolist_Prac_withDarkMode is built on the following main stack:
+
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [C#](http://csharp.net) – Languages
@@ -10,13 +11,17 @@ newri0807/todolist_Prac_withDarkMode is built on the following main stack:
 - [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 newri0807/todolist_Prac_withDarkMode is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
@@ -25,16 +30,19 @@ newri0807/todolist_Prac_withDarkMode is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [newri0807/todolist_Prac_withDarkMode](https://github.com/newri0807/todolist_Prac_withDarkMode)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|35<br/>Tools used|11/10/23 <br/>Report generated|
+|39<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -96,6 +104,19 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
+## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'>
+  <br>
+  <sub><a href="https://github.com/pgvector/pgvector/">pgvector</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
 ## <img src='https://img.stackshare.io/devops.svg'/> DevOps (5)
 <table><tr>
   <td align='center'>
@@ -141,12 +162,36 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (1)
+## Other (4)
 <table><tr>
   <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2270/no-img-open-source.png' alt='HTML'>
+  <br>
+  <sub><a href="http://">HTML</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'>
+  <br>
+  <sub><a href="https://github.com/hwchase17/langchain">LangChain</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'>
   <br>
   <sub><a href="https://reactnavigation.org/">React Navigation</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4535/no-img-open-source.png' alt='xo'>
+  <br>
+  <sub><a href="https://www.npmjs.com/package/xo">xo</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -177,15 +222,15 @@ Full tech stack [here](/techstack.md)
 |[react-icons](https://www.npmjs.com/react-icons)|v4.7.1|02/06/23|newli |MIT|N/A|
 |[react-scripts](https://www.npmjs.com/react-scripts)|v5.0.1|02/06/23|newli |MIT|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|02/06/23|newli |ISC|N/A|
+|[semver](https://www.npmjs.com/semver)|v6.3.0|02/06/23|newli |ISC|[CVE-2022-25883](https://github.com/advisories/GHSA-c2qf-rxjj-qqgw) (Moderate)|
 |[standard](https://www.npmjs.com/standard)|v14.3.4|02/06/23|newli |MIT|N/A|
 |[tap](https://www.npmjs.com/tap)|v12.7.0|02/06/23|newli |ISC|N/A|
 |[tar](https://www.npmjs.com/tar)|v6.1.13|02/06/23|newli |ISC|N/A|
 |[tsd](https://www.npmjs.com/tsd)|v0.14.0|02/06/23|newli |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v8.3.2|02/06/23|newli |MIT|N/A|
 |[which](https://www.npmjs.com/which)|v1.3.1|02/06/23|newli |ISC|N/A|
-|[xo](https://www.npmjs.com/xo)|v0.39.1|02/06/23|newli |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
