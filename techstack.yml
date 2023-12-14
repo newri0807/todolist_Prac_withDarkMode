@@ -1,11 +1,11 @@
 repo_name: newri0807/todolist_Prac_withDarkMode
-report_id: 1fe607b99626bc7ef426e13f84adc7c6
+report_id: 218e353d1784e69df66ae99863a7cfd5
 repo_type: Public
-timestamp: '2023-11-10T02:50:10+00:00'
-requested_by: Newl87
+timestamp: '2023-12-14T10:11:23+00:00'
+requested_by: newri0807
 provider: github
 branch: master
-detected_tools_count: 35
+detected_tools_count: 39
 tools:
 - name: C#
   description: Simple, general-purpose, object-oriented programming language for the
@@ -73,8 +73,19 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: package.json
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/gyp/pyproject.toml"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
 - name: Eclipse
@@ -130,6 +141,26 @@ tools:
   detection_source: package.json
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: public/index.html
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/gyp/pyproject.toml"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
 - name: React Navigation
   description: Flexible navigation library for React Native and web. Learn once, navigate
     anywhere.
@@ -139,6 +170,15 @@ tools:
   category: Mobile
   sub_category: Cross-Platform Mobile Tools
   image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: xo
+  description: Zero configuration fixer and linter for javascript code.
+  website_url: https://www.npmjs.com/package/xo
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4535/no-img-open-source.png
   detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -152,7 +192,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -167,7 +207,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -181,7 +221,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -195,7 +235,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json
   detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -209,7 +249,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16564/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
-  detection_source_url: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -223,7 +263,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16088/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -237,7 +277,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -251,7 +291,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16375/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -265,7 +305,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17097/default_faf55ef1f2892d4dcce54ed77892756797ff34e1.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -280,7 +320,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16178/default_0d450fcd03a0343bb89c9b7c3a8cf092daa8c3b9.png
-  detection_source_url: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -294,7 +334,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16662/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -308,7 +348,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16667/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -322,7 +362,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -336,7 +376,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16909/default_7b9968788548874538c601457e8dcd9c74bd2051.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -350,7 +390,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -364,10 +404,31 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 6.3.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
+  detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 6.3.1
 - name: standard
   description: JavaScript Standard Style
   package_url: https://www.npmjs.com/standard
@@ -378,7 +439,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15878/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -392,7 +453,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -406,7 +467,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -420,7 +481,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16858/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
-  detection_source_url: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json
   detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -434,7 +495,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -448,21 +509,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16482/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
-  last_updated_by: newli
-  last_updated_on: 2023-02-06 08:50:19.000000000 Z
-- name: xo
-  description: JavaScript linter with great defaults
-  package_url: https://www.npmjs.com/xo
-  version: 0.39.1
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16016/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
-  detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
