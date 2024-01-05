@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [newri0807/todolist_Prac_withDarkMode](https://github.com/newri0807/todolist_Prac_withDarkMode)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|39<br/>Tools used|12/14/23 <br/>Report generated|
+|40<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -200,9 +200,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (23)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (24)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (23)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (24)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -229,6 +229,7 @@ Full tech stack [here](/techstack.md)
 |[tsd](https://www.npmjs.com/tsd)|v0.14.0|02/06/23|newli |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v8.3.2|02/06/23|newli |MIT|N/A|
 |[which](https://www.npmjs.com/which)|v1.3.1|02/06/23|newli |ISC|N/A|
+|[xo](https://www.npmjs.com/xo)|v0.39.1|02/06/23|newli |MIT|N/A|
 
 <br/>
 <div align='center'>
