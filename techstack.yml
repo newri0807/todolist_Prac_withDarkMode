@@ -1,11 +1,12 @@
 repo_name: newri0807/todolist_Prac_withDarkMode
-report_id: 218e353d1784e69df66ae99863a7cfd5
+report_id: 1fe607b99626bc7ef426e13f84adc7c6
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:11:23+00:00'
+timestamp: '2024-01-05T09:01:21+00:00'
 requested_by: newri0807
 provider: github
 branch: master
-detected_tools_count: 39
+detected_tools_count: 40
 tools:
 - name: C#
   description: Simple, general-purpose, object-oriented programming language for the
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/lib/Find-VisualStudio.cs
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/lib/Find-VisualStudio.cs"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -48,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -60,6 +65,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json
   detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -85,6 +91,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/gyp/pyproject.toml
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/gyp/pyproject.toml"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -96,6 +103,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/gyp/pylib/gyp/generator/eclipse.py
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/gyp/pylib/gyp/generator/eclipse.py"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -107,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -116,6 +125,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -127,6 +137,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -138,6 +149,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/package.json
   detection_source: package.json
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -147,6 +159,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/public/index.html
   detection_source: public/index.html
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -158,6 +171,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/gyp/pyproject.toml
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/gyp/pyproject.toml"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -170,6 +184,7 @@ tools:
   category: Mobile
   sub_category: Cross-Platform Mobile Tools
   image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json
   detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -179,6 +194,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4535/no-img-open-source.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json
   detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
@@ -511,5 +527,19 @@ tools:
   image_url: https://img.stackshare.io/package/16482/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
   detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/yarn.lock
   detection_source: ".yarn/unplugged/node-gyp-npm-9.3.1-43540bab9c/node_modules/node-gyp/package.json"
+  last_updated_by: newli
+  last_updated_on: 2023-02-06 08:50:19.000000000 Z
+- name: xo
+  description: JavaScript linter with great defaults
+  package_url: https://www.npmjs.com/xo
+  version: 0.39.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16016/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/newri0807/todolist_Prac_withDarkMode/blob/master/.yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json
+  detection_source: ".yarn/unplugged/open-npm-8.4.0-df63cfe537/node_modules/open/package.json"
   last_updated_by: newli
   last_updated_on: 2023-02-06 08:50:19.000000000 Z
